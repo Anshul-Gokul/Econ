@@ -1,1 +1,3 @@
 # EconLibrary
+
+The econ package is a comprehensive collection of Java classes for performing a wide range of economic calculations and analyses. It provides tools for economists, researchers, and analysts to work with economic data, financial calculations, statistical analysis, optimization, and various types of averaging. This package aims to assist users in modeling economic scenarios, making informed decisions, and conducting empirical research in the field of economics. It covers areas such as financial economics, econometrics, statistics, and more, offering a versatile set of functions and methods for economic analysis and modeling.
